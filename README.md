@@ -1,6 +1,5 @@
-# DocInsight AI - LLM-Powered PDF Summarization and Heading Extraction
-
-An intelligent document analysis system that leverages **Google Gemini** and **PyMuPDF** to extract text, identify document headings, and generate concise summaries from PDF files.
+# LLM-Powered PDF Summarization and Heading Extraction
+LLM-powered PDF summarization tool using Gemini 2.5 Flash and PyMuPDF. Extracts text, identifies document headings, and generates concise summaries from PDF files. Features regex-based heading detection for efficient document understanding and analysis.
 
 ## 🚀 Features
 
